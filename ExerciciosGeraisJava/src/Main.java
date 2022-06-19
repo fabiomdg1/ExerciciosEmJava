@@ -1,3 +1,4 @@
+import Algoritmos.ExercicioAlgo_47;
 import Algoritmos.ExercicioAlgo_48;
 import Algoritmos.ExercicioAlgo_49;
 import Algoritmos.ExercicioAlgo_50;
@@ -8,8 +9,11 @@ public class Main {
 
         //----------------Exercícios de Algorítmos----------------//
 
+        ExercicioAlgo_47 exercicioAlgo_47 = new ExercicioAlgo_47();
+        exercicioAlgo_47.ordenarNumOrdemCrescente();
+
         ExercicioAlgo_48 exercicioAlgo_48 = new ExercicioAlgo_48();
-        exercicioAlgo_48.menorNumero();
+        //exercicioAlgo_48.menorNumero();
 
         ExercicioAlgo_49 exercicioAlgo_49 = new ExercicioAlgo_49();
         //exercicioAlgo_49.validarTriangulo();
