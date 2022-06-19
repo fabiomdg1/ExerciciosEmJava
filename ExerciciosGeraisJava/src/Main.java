@@ -33,6 +33,11 @@ public class Main {
         Exercicio_10 exercicio_10 = new Exercicio_10();
         //exercicio_10.contarVetores();
 
+        Exercicio_11 exercicio_11 = new Exercicio_11();
+        //exercicio_11.pessoasPorIdade();
+
+        Exercicio_12 exercicio_12 = new Exercicio_12();
+        exercicio_12.idadePessoas();
 
     }
 
