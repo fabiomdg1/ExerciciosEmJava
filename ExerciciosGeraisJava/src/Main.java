@@ -37,8 +37,16 @@ public class Main {
         //exercicio_11.pessoasPorIdade();
 
         Exercicio_12 exercicio_12 = new Exercicio_12();
-        exercicio_12.idadePessoas();
+        //exercicio_12.idadePessoas();
+
+        Exercicio_13 exercicio_13 = new Exercicio_13();
+        //exercicio_13.elementosPares();
+
+        Exercicio_14 exercicio_14 = new Exercicio_14();
+        //exercicio_14.duplicarVetor();
+
+        Exercicio_16 exercicio_16 = new Exercicio_16();
+        exercicio_16.multiplicarVetor();
 
     }
-
 }
