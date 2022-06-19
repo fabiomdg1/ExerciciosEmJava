@@ -1,3 +1,4 @@
+import Algoritmos.ExercicioAlgo_48;
 import Algoritmos.ExercicioAlgo_49;
 import Algoritmos.ExercicioAlgo_50;
 import VetoresMatrizes.*;
@@ -6,11 +7,16 @@ public class Main {
     public static void main(String[] args) {
 
         //----------------Exercícios de Algorítmos----------------//
+
+        ExercicioAlgo_48 exercicioAlgo_48 = new ExercicioAlgo_48();
+        exercicioAlgo_48.menorNumero();
+
+        ExercicioAlgo_49 exercicioAlgo_49 = new ExercicioAlgo_49();
+        //exercicioAlgo_49.validarTriangulo();
+
         ExercicioAlgo_50 exercicioAlgo_50 = new ExercicioAlgo_50();
         //exercicioAlgo_50.notaConceito();
 
-        ExercicioAlgo_49 exercicioAlgo_49 = new ExercicioAlgo_49();
-        exercicioAlgo_49.validarTriangulo();
 
         //----------------Exercícios de Vetores----------------//
 
