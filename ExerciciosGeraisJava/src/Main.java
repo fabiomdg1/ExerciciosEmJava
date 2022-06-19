@@ -1,7 +1,14 @@
+import Algoritmos.ExercicioAlgo_50;
 import VetoresMatrizes.*;
 
 public class Main {
     public static void main(String[] args) {
+
+        //----------------Exercícios de Algorítmos----------------//
+        ExercicioAlgo_50 exercicioAlgo_50 = new ExercicioAlgo_50();
+        exercicioAlgo_50.notaConceito();
+
+        //----------------Exercícios de Vetores----------------//
 
         Exercicio_01 exercicio_01 = new Exercicio_01();
         //exercicio_01.criarVetor();
@@ -49,7 +56,7 @@ public class Main {
         //exercicio_16.multiplicarVetor();
 
         Exercicio_17 exercicio_17 = new Exercicio_17();
-        exercicio_17.vetorAoQuadrado();
+        //exercicio_17.vetorAoQuadrado();
 
     }
 }
