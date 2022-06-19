@@ -2,9 +2,7 @@
 //em um terceiro vetor com dobro do tamanho.
 
 package VetoresMatrizes;
-
 public class Exercicio_04 {
-
     public void uniaoVetores() {
         String vetor1[] = {"a ", "b ", "c ", "d ", "e "};
         String vetor2[] = {"f ", "g ", "h ", "i ", "j "};

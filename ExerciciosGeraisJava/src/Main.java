@@ -33,7 +33,7 @@ public class Main {
         Exercicio_10 exercicio_10 = new Exercicio_10();
         //exercicio_10.contarVetores();
 
-        
+
     }
 
 }

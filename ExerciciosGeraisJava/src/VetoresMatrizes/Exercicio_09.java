@@ -3,7 +3,6 @@
 //respectivamente, armazenados neste vetor.
 
 package VetoresMatrizes;
-
 public class Exercicio_09 {
     public void paresImpares(){
         int vetor[] = {1,2,3,4,5,6,12,14,16,20};

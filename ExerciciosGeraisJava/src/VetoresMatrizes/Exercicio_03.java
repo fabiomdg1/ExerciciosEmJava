@@ -2,7 +2,6 @@
 // e armazene o resultado em um terceiro vetor.
 
 package VetoresMatrizes;
-
 public class Exercicio_03 {
     public void somarVetores(){
 

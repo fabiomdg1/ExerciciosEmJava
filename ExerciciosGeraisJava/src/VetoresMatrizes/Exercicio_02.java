@@ -1,9 +1,7 @@
 //Faça um algoritmo que copie o conteúdo de um vetor para um segundo vetor.
 
 package VetoresMatrizes;
-
 public class Exercicio_02 {
-
     public void copiarConteudoVetor(){
         String vetor1[] = {"a ","b ","c ","d ","e "};
         String vetor2[] = {"", "", "", "", ""};
@@ -32,11 +30,5 @@ public class Exercicio_02 {
             vetor2[i] = vetor1[i];
             System.out.print(vetor2[i]);
         }
-
-
-
-
-
-
     }
 }

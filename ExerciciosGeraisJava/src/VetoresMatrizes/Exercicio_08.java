@@ -3,7 +3,6 @@
 package VetoresMatrizes;
 
 public class Exercicio_08 {
-
     public void mediaNumerosImpares(){
         int soma = 0;
         int qtd = 0;

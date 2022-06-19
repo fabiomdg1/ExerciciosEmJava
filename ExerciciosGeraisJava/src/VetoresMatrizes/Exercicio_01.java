@@ -4,9 +4,7 @@
 //Em seguida exiba os valores deste vetor.
 
 package VetoresMatrizes;
-
 public class Exercicio_01 {
-
     public void criarVetor(){
 
         //Podemos criar vetores com os tipos int, double, float, char, String, entre outros ...
@@ -21,8 +19,4 @@ public class Exercicio_01 {
             valor ++;
         }
     }
-
-
-
-
 }
