@@ -46,7 +46,10 @@ public class Main {
         //exercicio_14.duplicarVetor();
 
         Exercicio_16 exercicio_16 = new Exercicio_16();
-        exercicio_16.multiplicarVetor();
+        //exercicio_16.multiplicarVetor();
+
+        Exercicio_17 exercicio_17 = new Exercicio_17();
+        exercicio_17.vetorAoQuadrado();
 
     }
 }
