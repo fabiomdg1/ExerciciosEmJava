@@ -13,9 +13,7 @@ Definição 3 - chama-se triângulo escaleno o triângulo que tem os comprimento
 package Algoritmos;
 
 import java.util.Scanner;
-
 public class ExercicioAlgo_49 {
-
     public void validarTriangulo(){
         int lado_A = 0;
         int lado_B = 0;

@@ -3,9 +3,7 @@
 package Algoritmos;
 
 import java.util.Scanner;
-
 public class ExercicioAlgo_48 {
-
     public void menorNumero(){
         int a, b, c;
         int menor = 0;
