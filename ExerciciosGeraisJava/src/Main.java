@@ -1,3 +1,4 @@
+import Algoritmos.ExercicioAlgo_49;
 import Algoritmos.ExercicioAlgo_50;
 import VetoresMatrizes.*;
 
@@ -6,7 +7,10 @@ public class Main {
 
         //----------------Exercícios de Algorítmos----------------//
         ExercicioAlgo_50 exercicioAlgo_50 = new ExercicioAlgo_50();
-        exercicioAlgo_50.notaConceito();
+        //exercicioAlgo_50.notaConceito();
+
+        ExercicioAlgo_49 exercicioAlgo_49 = new ExercicioAlgo_49();
+        exercicioAlgo_49.validarTriangulo();
 
         //----------------Exercícios de Vetores----------------//
 
