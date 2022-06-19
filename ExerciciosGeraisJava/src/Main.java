@@ -1,7 +1,4 @@
-import Algoritmos.ExercicioAlgo_47;
-import Algoritmos.ExercicioAlgo_48;
-import Algoritmos.ExercicioAlgo_49;
-import Algoritmos.ExercicioAlgo_50;
+import Algoritmos.*;
 import VetoresMatrizes.*;
 
 public class Main {
@@ -9,8 +6,11 @@ public class Main {
 
         //----------------Exercícios de Algorítmos----------------//
 
+        ExercicioAlgo_45 exercicioAlgo_45 = new ExercicioAlgo_45();
+        exercicioAlgo_45.saldoBancario();
+
         ExercicioAlgo_47 exercicioAlgo_47 = new ExercicioAlgo_47();
-        exercicioAlgo_47.ordenarNumOrdemCrescente();
+        //exercicioAlgo_47.ordenarNumOrdemCrescente();
 
         ExercicioAlgo_48 exercicioAlgo_48 = new ExercicioAlgo_48();
         //exercicioAlgo_48.menorNumero();
