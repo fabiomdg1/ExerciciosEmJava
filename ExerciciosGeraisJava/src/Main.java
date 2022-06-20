@@ -6,8 +6,11 @@ public class Main {
 
         //----------------Exercícios de Algorítmos----------------//
 
+        ExercicioAlgo_44 exercicioAlgo_44 = new ExercicioAlgo_44();
+        exercicioAlgo_44.vendasPicole();
+
         ExercicioAlgo_45 exercicioAlgo_45 = new ExercicioAlgo_45();
-        exercicioAlgo_45.saldoBancario();
+        //exercicioAlgo_45.saldoBancario();
 
         ExercicioAlgo_47 exercicioAlgo_47 = new ExercicioAlgo_47();
         //exercicioAlgo_47.ordenarNumOrdemCrescente();
