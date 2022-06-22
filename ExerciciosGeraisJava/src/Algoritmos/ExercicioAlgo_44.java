@@ -48,7 +48,7 @@ public class ExercicioAlgo_44 {
                 System.out.println("-------------------Fechamento do pedido--------------------");
                 System.out.printf("O tipo escolhido foi: Tipo 2");
                 System.out.printf("\nQuantidade: %d",quantidade);
-                System.out.printf("\nValor total: R%.2f: ",valorTipo1 * quantidade);
+                System.out.printf("\nValor total: R%.2f: ",valorTipo2 * quantidade);
                 System.out.println("\n-----------------------------------------------------------");
                 break;
 
@@ -56,7 +56,7 @@ public class ExercicioAlgo_44 {
                 System.out.println("-------------------Fechamento do pedido--------------------");
                 System.out.printf("O tipo escolhido foi: Tipo 3");
                 System.out.printf("\nQuantidade: %d",quantidade);
-                System.out.printf("\nValor total: R%.2f: ",valorTipo1 * quantidade);
+                System.out.printf("\nValor total: R%.2f: ",valorTipo3 * quantidade);
                 System.out.println("\n-----------------------------------------------------------");
                 break;
 
@@ -64,10 +64,4 @@ public class ExercicioAlgo_44 {
                 break;
         }
     }
-
-
-
-
-
-
 }

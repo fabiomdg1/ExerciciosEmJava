@@ -6,8 +6,14 @@ public class Main {
 
         //----------------Exercícios de Algorítmos----------------//
 
+        ExercicioAlgo_42 exercicioAlgo_42 = new ExercicioAlgo_42();
+        exercicioAlgo_42.Descricao();
+
+        ExercicioAlgo_43 exercicioAlgo_43 = new ExercicioAlgo_43();
+        //exercicioAlgo_43.aumentoSalario();
+
         ExercicioAlgo_44 exercicioAlgo_44 = new ExercicioAlgo_44();
-        exercicioAlgo_44.vendasPicole();
+        //exercicioAlgo_44.vendasPicole();
 
         ExercicioAlgo_45 exercicioAlgo_45 = new ExercicioAlgo_45();
         //exercicioAlgo_45.saldoBancario();
