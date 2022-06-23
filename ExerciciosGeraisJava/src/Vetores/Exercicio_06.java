@@ -1,6 +1,6 @@
 //Criar um vetor A com 10 elementos inteiros.
 // Implementar um programa que defina e escreva a soma de todos os elementos armazenados neste vetor.
-package VetoresMatrizes;
+package Vetores;
 public class Exercicio_06 {
     public void somarIemsVetor(){
         int vetor[] = {1,1,1,1,1,1,1,1,1,10};

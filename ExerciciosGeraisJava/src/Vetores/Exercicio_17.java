@@ -2,7 +2,7 @@
 //Construir um vetor B de mesmo tipo e tamanho,
 //sendo que cada elemento do vetor B deverá ser o quadrado do respectivo
 //elemento de A, ou seja: B[i] = A[i] * A[I].
-package VetoresMatrizes;
+package Vetores;
 public class Exercicio_17 {
 
     public void vetorAoQuadrado(){

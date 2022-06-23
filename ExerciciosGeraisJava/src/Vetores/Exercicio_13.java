@@ -1,7 +1,7 @@
 //Criar um vetor A com 10 elementos inteiros.
 // Implementar um programa que defina e escreva a quantidade de
 // elementos armazenados neste vetor que são pares.
-package VetoresMatrizes;
+package Vetores;
 
 public class Exercicio_13 {
     public void elementosPares(){

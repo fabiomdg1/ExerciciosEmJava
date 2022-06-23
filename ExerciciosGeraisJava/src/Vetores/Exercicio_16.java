@@ -1,7 +1,7 @@
 //Criar um vetor A com 8 elementos inteiros.
 //Construir um vetor B de mesmo tipo e tamanho
 //e com os elementos do vetor A multiplicados por 2, ou seja: B[i] = A[i] * 2.
-package VetoresMatrizes;
+package Vetores;
 
 public class Exercicio_16 {
         public void multiplicarVetor(){

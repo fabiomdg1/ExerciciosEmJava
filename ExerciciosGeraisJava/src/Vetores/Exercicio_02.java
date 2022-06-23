@@ -1,6 +1,6 @@
 //Faça um algoritmo que copie o conteúdo de um vetor para um segundo vetor.
 
-package VetoresMatrizes;
+package Vetores;
 public class Exercicio_02 {
     public void copiarConteudoVetor(){
         String vetor1[] = {"a ","b ","c ","d ","e "};

@@ -3,7 +3,7 @@
 // ou seja, na posição número 0 coloque 101,0na posição 1 coloque 102 e assim sucessivamente.
 //Em seguida exiba os valores deste vetor.
 
-package VetoresMatrizes;
+package Vetores;
 public class Exercicio_01 {
     public void criarVetor(){
 

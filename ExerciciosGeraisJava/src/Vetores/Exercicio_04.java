@@ -1,7 +1,7 @@
 //Faça um algoritmo que faça a união de dois vetores de mesmo tamanho e mesmo tipo
 //em um terceiro vetor com dobro do tamanho.
 
-package VetoresMatrizes;
+package Vetores;
 public class Exercicio_04 {
     public void uniaoVetores() {
         String vetor1[] = {"a ", "b ", "c ", "d ", "e "};

@@ -4,7 +4,7 @@
 // b) a quantidade de elementos armazenados no vetor que são iguais a 15;
 // c) a média dos elementos armazenados no vetor que são superiores a 15.
 
-package VetoresMatrizes;
+package Vetores;
 public class Exercicio_10 {
         public void contarVetores(){
                 int vetor_A[] = {1,2,3,4,5,15,15,16,17,18};

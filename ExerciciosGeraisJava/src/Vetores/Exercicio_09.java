@@ -2,7 +2,7 @@
 //Desenvolver um programa que defina o percentual de elementos pares e ímpares,
 //respectivamente, armazenados neste vetor.
 
-package VetoresMatrizes;
+package Vetores;
 public class Exercicio_09 {
     public void paresImpares(){
         int vetor[] = {1,2,3,4,5,6,12,14,16,20};

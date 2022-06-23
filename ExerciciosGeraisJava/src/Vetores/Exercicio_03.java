@@ -1,7 +1,7 @@
 //Faça um algoritmo que some o conteúdo de dois vetores
 // e armazene o resultado em um terceiro vetor.
 
-package VetoresMatrizes;
+package Vetores;
 public class Exercicio_03 {
     public void somarVetores(){
 
