@@ -1,13 +1,14 @@
 import Algoritmos.*;
+import Matrizes.ExercicioMatriz_01;
 import Vetores.*;
-
+import java.lang.System;
 public class Main {
     public static void main(String[] args) {
 
         //----------------Exercícios de Algorítmos----------------//
 
         ExercicioAlgo_41 exercicioAlgo_41 = new ExercicioAlgo_41();
-        exercicioAlgo_41.salarioTotalFuncionario();
+        //exercicioAlgo_41.salarioTotalFuncionario();
 
         ExercicioAlgo_42 exercicioAlgo_42 = new ExercicioAlgo_42();
         //exercicioAlgo_42.Descricao();
@@ -84,5 +85,9 @@ public class Main {
         Vetores.Exercicio_17 exercicio_17 = new Exercicio_17();
         //exercicio_17.vetorAoQuadrado();
 
+        //----------------Exercícios de Matrizes----------------//
+
+        ExercicioMatriz_01 exercicioMatriz_01 = new ExercicioMatriz_01();
+        exercicioMatriz_01.somarMatriz();
     }
 }
