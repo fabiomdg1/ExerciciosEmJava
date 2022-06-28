@@ -1,5 +1,6 @@
 import Algoritmos.*;
 import Matrizes.ExercicioMatriz_01;
+import Matrizes.ExercicioMatriz_45;
 import Vetores.*;
 import java.lang.System;
 public class Main {
@@ -88,6 +89,9 @@ public class Main {
         //----------------Exercícios de Matrizes----------------//
 
         ExercicioMatriz_01 exercicioMatriz_01 = new ExercicioMatriz_01();
-        exercicioMatriz_01.somarMatriz();
+        //exercicioMatriz_01.somarMatriz();
+
+        ExercicioMatriz_45 exercicioMatriz_45 = new ExercicioMatriz_45();
+        exercicioMatriz_45.maiorNumeroMatriz();
     }
 }
