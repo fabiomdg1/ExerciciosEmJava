@@ -41,6 +41,4 @@ public class ExercicioMatriz_45 {
         System.out.println("Linha: " + linha);
         System.out.println("Coluna: " + coluna);
     }
-
-
 }
