@@ -2,6 +2,7 @@ import Algoritmos.*;
 import Matrizes.ExercicioMatriz_01;
 import Matrizes.ExercicioMatriz_45;
 import Matrizes.ExercicioMatriz_46;
+import Strings.ExercicioStr_1;
 import Vetores.*;
 import java.lang.System;
 public class Main {
@@ -96,6 +97,10 @@ public class Main {
         //exercicioMatriz_45.maiorNumeroMatriz();
 
         ExercicioMatriz_46 exercicioMatriz_46 = new ExercicioMatriz_46();
-        exercicioMatriz_46.menorMaiorValorMatriz();
+        //exercicioMatriz_46.menorMaiorValorMatriz();
+
+        //----------------Exercícios com Strings----------------//
+        ExercicioStr_1 exercicioStr_1 = new ExercicioStr_1();
+        exercicioStr_1.inverterString();
     }
 }
