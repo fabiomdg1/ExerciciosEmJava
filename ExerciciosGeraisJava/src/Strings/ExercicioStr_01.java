@@ -3,7 +3,7 @@ package Strings;
 
 import java.util.Scanner;
 
-public class ExercicioStr_1 {
+public class ExercicioStr_01 {
     public void inverterString(){
         String nome;
         Scanner scanner = new Scanner(System.in);

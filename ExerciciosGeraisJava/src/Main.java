@@ -2,13 +2,17 @@ import Algoritmos.*;
 import Matrizes.ExercicioMatriz_01;
 import Matrizes.ExercicioMatriz_45;
 import Matrizes.ExercicioMatriz_46;
-import Strings.ExercicioStr_1;
+import Strings.ExercicioStr_01;
+import Strings.ExercicioStr_02;
 import Vetores.*;
-import java.lang.System;
+
 public class Main {
     public static void main(String[] args) {
 
         //----------------Exercícios de Algorítmos----------------//
+
+        ExercicioAlgo_07 exercicioAlgo_07 = new ExercicioAlgo_07();
+        exercicioAlgo_07.mostrarArea();
 
         ExercicioAlgo_41 exercicioAlgo_41 = new ExercicioAlgo_41();
         //exercicioAlgo_41.salarioTotalFuncionario();
@@ -36,6 +40,9 @@ public class Main {
 
         ExercicioAlgo_50 exercicioAlgo_50 = new ExercicioAlgo_50();
         //exercicioAlgo_50.notaConceito();
+
+        ExercicioAlgo_126 exercicioAlgo_126 = new ExercicioAlgo_126();
+        //exercicioAlgo_126.exibirResultado(5);
 
 
         //----------------Exercícios de Vetores----------------//
@@ -100,7 +107,10 @@ public class Main {
         //exercicioMatriz_46.menorMaiorValorMatriz();
 
         //----------------Exercícios com Strings----------------//
-        ExercicioStr_1 exercicioStr_1 = new ExercicioStr_1();
-        exercicioStr_1.inverterString();
+        ExercicioStr_01 exercicioStr_1 = new ExercicioStr_01();
+        //exercicioStr_1.inverterString();
+
+        ExercicioStr_02 exercicioStr_02 = new ExercicioStr_02();
+        //exercicioStr_02.contarLetras();
     }
 }
