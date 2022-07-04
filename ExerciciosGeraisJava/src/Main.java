@@ -12,7 +12,10 @@ public class Main {
         //----------------Exercícios de Algorítmos----------------//
 
         ExercicioAlgo_07 exercicioAlgo_07 = new ExercicioAlgo_07();
-        exercicioAlgo_07.mostrarArea();
+        //exercicioAlgo_07.mostrarArea();
+
+        ExercicioAlgo_08 exercicioAlgo_08 = new ExercicioAlgo_08();
+        exercicioAlgo_08.areaTriangulo();
 
         ExercicioAlgo_41 exercicioAlgo_41 = new ExercicioAlgo_41();
         //exercicioAlgo_41.salarioTotalFuncionario();
