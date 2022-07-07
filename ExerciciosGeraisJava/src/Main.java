@@ -15,7 +15,10 @@ public class Main {
         //exercicioAlgo_07.mostrarArea();
 
         ExercicioAlgo_08 exercicioAlgo_08 = new ExercicioAlgo_08();
-        exercicioAlgo_08.areaTriangulo();
+        //exercicioAlgo_08.areaTriangulo();
+
+        ExercicioAlgo_09 exercicioAlgo_09 = new ExercicioAlgo_09();
+        exercicioAlgo_09.concatenar();
 
         ExercicioAlgo_41 exercicioAlgo_41 = new ExercicioAlgo_41();
         //exercicioAlgo_41.salarioTotalFuncionario();
