@@ -18,13 +18,16 @@ public class Main {
         //exercicioAlgo_08.areaTriangulo();
 
         ExercicioAlgo_09 exercicioAlgo_09 = new ExercicioAlgo_09();
-        exercicioAlgo_09.concatenar();
+        //exercicioAlgo_09.concatenar();
+
+        ExercicioAlgo_10 exercicioAlgo_10 = new ExercicioAlgo_10();
+        exercicioAlgo_10.soma();
 
         ExercicioAlgo_41 exercicioAlgo_41 = new ExercicioAlgo_41();
         //exercicioAlgo_41.salarioTotalFuncionario();
 
         ExercicioAlgo_42 exercicioAlgo_42 = new ExercicioAlgo_42();
-        //exercicioAlgo_42.Descricao();
+        //exercicioAlgo_42.descricao();
 
         ExercicioAlgo_43 exercicioAlgo_43 = new ExercicioAlgo_43();
         //exercicioAlgo_43.aumentoSalario();

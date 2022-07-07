@@ -12,7 +12,7 @@ public class ExercicioAlgo_42 {
     ExercicioAlgo_42_Artigo artigo3 = new ExercicioAlgo_42_Artigo("Oculos", 75.00,10);
     ExercicioAlgo_42_Artigo artigo4 = new ExercicioAlgo_42_Artigo("Chinelo", 35.00,5);
 
-    public void Descricao(){
+    public void descricao(){
         artigo1.descricao();
         artigo2.descricao();
         artigo3.descricao();
