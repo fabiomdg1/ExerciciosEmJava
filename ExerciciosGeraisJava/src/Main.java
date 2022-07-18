@@ -1,4 +1,5 @@
 import Algoritmos.*;
+import Datas.ExercicioData_01;
 import Matrizes.ExercicioMatriz_01;
 import Matrizes.ExercicioMatriz_45;
 import Matrizes.ExercicioMatriz_46;
@@ -8,6 +9,10 @@ import Vetores.*;
 
 public class Main {
     public static void main(String[] args) {
+
+        //----------------Exercícios de Data----------------//
+        ExercicioData_01 exercicioData_01 = new ExercicioData_01();
+        exercicioData_01.calculoDeDatas();
 
         //----------------Exercícios de Algorítmos----------------//
 
@@ -21,7 +26,7 @@ public class Main {
         //exercicioAlgo_09.concatenar();
 
         ExercicioAlgo_10 exercicioAlgo_10 = new ExercicioAlgo_10();
-        exercicioAlgo_10.soma();
+        //exercicioAlgo_10.soma();
 
         ExercicioAlgo_41 exercicioAlgo_41 = new ExercicioAlgo_41();
         //exercicioAlgo_41.salarioTotalFuncionario();
